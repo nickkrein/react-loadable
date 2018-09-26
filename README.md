@@ -1,5 +1,3 @@
-![React Loadable](http://thejameskyle.com/img/react-loadable-header.png)
-
 > A higher order component for loading components with dynamic imports.
 
 ## Install
@@ -25,41 +23,6 @@ export default class App extends React.Component {
   }
 }
 ```
-
-## Happy Customers:
-
-- ["I'm obsessed with this right now: CRA with React Router v4 and react-loadable. Free code splitting, this is so easy."](https://twitter.com/matzatorski/status/872059865350406144)
-- ["Webpack 2 upgrade & react-loadable; initial load from 1.1mb to 529kb in under 2 hours. Immense."](https://twitter.com/jwbradley87/status/847191118269833216)
-- ["Oh hey - using loadable component I knocked 13K off my initial load. Easy win!"](https://twitter.com/AdamRackis/status/846593080992153600)
-- ["Had a look and its awesome. shaved like 50kb off our main bundle."](https://github.com/quran/quran.com-frontend/pull/701#issuecomment-287908551)
-- ["I've got that server-side rendering + code splitting + PWA ServiceWorker caching setup done 😎 (thanks to react-loadable). Now our frontend is super fast."](https://twitter.com/mxstbr/status/922375575217627136)
-- ["Using react-loadable went from 221.28 KB → 115.76 KB @ main bundle. Fucking awesome and very simple API."](https://twitter.com/evgenyrodionov/status/958821614644269057)
-
-## Users
-
-- [Analog.Cafe](https://www.analog.cafe)
-- [Appbase.io](https://github.com/appbaseio/reactivesearch)
-- [Atlassian](https://www.atlassian.com/)
-- [Cloudflare](https://www.cloudflare.com)
-- [Curio](https://www.curio.org)
-- [Dollar Shave Club](https://github.com/dollarshaveclub)
-- [Dresez](https://dresez.pk/)
-- [Flyhomes](https://flyhomes.com)
-- [Gogo](https://gogoair.com)
-- [Gofore](https://gofore.com/en/home/)
-- [MediaTek MCS-Lite](https://github.com/MCS-Lite)
-- [Officepulse](https://www.officepulse.in/)
-- [Plottu](https://public.plottu.com)
-- [Render](https://render.com)
-- [Snipit](https://snipit.io)
-- [Spectrum.chat](https://spectrum.chat)
-- [Talentpair](https://talentpair.com)
-- [Tinder](https://tinder.com/)
-- [Unsplash](https://unsplash.com/)
-- [Wave](https://waveapps.com/)
-
-> _If your company or project is using React Loadable, please open a PR and add
-> yourself to this list (in alphabetical order please)_
 
 ## Also See:
 
